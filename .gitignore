@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.secret_key.txt
+secret_key.txt
+secret_key/
+.secret_key/
+
+.idea/
+idea/
+
+.media/
+media/
